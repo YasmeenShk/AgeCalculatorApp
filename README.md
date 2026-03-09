@@ -45,7 +45,7 @@ It calculates your exact **age in years, months, and days**, and also shows your
 
 ```bash
 # Clone the repository
-git clone https://github.com/codewithyasu/AgeCalculatorApp.git
+git clone https://github.com/Yasmeen.Shk/AgeCalculatorApp.git
 
 
 📸 Author
