@@ -1,6 +1,6 @@
 #  Age Calculator App
 
- A simple and responsive **Age Calculator App** built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
+ **Age Calculator App** built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
 It calculates your exact **age in years, months, and days**, and also shows your **total days lived** and **days left until your next birthday** 🎂.
 
 ---
